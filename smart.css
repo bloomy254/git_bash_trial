@@ -5,7 +5,7 @@ body {
 .header {
     background-color: aliceblue;
     width: 40%;
-    margin: 10px auto;
+    margin: 0px auto 30px;
     border-radius: 5px;
     padding: 10px;
 }
