@@ -2,10 +2,10 @@ body {
     background-color: beige;
     margin: 0px;
 }
-#header {
+.header {
     background-color: aliceblue;
     width: 40%;
-    margin: auto;
+    margin: 10px auto;
     border-radius: 5px;
     padding: 10px;
 }
